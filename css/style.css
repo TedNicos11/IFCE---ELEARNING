@@ -443,6 +443,7 @@
 
 .team-item img {
     transition: .5s;
+    height: 250px;
 }
 
 .team-item:hover img {
